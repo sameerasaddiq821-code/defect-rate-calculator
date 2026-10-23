@@ -1,0 +1,6 @@
+{
+  "name": "QC Defect Rate Calculator",
+  "description": "Industrial Quality Control Defect Rate Calculator with high-visibility color status bands, defect categorization, and shift audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

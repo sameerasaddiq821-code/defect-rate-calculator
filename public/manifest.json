@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "QC Defect Rate Calculator",
+  "short_name": "QC Defect",
+  "description": "Industrial Quality Control Defect Rate Calculator with high-visibility color status bands, defect categorization, and shift audit logging.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
